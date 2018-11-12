@@ -1,0 +1,26 @@
+{
+  "id": "234db14e-1c4a-47e3-a18e-03773d4b6b3f",
+  "name": "ALProject2",
+  "publisher": "Håkan G. Svensson",
+  "brief": "Customer Category with free gifts",
+  "description": "Customer Category with free gifts",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.unt.se",
+  "logo": "C:\\Users\\svenssonhk\\Documents\\AL\\ALProject2\\LOGO.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
